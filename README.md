@@ -1,3 +1,5 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/redhatdemocentral/docker-developer).
+
 # docker-developer
 
 Support for executing JBoss Middleware demonstrations within Docker 
